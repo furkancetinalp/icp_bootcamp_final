@@ -17,7 +17,9 @@ This project aims to be a software project that enables the resources in the Web
 <h2>STORY</h2>
 
 Accordingly, the user enters city and weather information when minting the NFT.
+<br/>
 City => Any name;
+<br/>
 Weather Condition =>
     Thunderstorm,
     Drizzle,
