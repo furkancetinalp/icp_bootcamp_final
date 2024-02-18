@@ -44,7 +44,7 @@ mint_form.addEventListener("submit", async (e) => {
 
 async function mint(principal,city,input_weather_condition){
   const mint_result = await icp_final_backend.mintDip721(principal,city,input_weather_condition);
-  console.log(mint_result);
+  
   let success = mint_result["Ok"];
   if (success == undefined) {
     let fail = mint_result["Err"];
@@ -59,8 +59,6 @@ async function mint(principal,city,input_weather_condition){
     document.getElementById("alert").setAttribute('style', 'background-color:' + 'green'  + ';');
     document.getElementById("alert").innerText=`MINT IS SUCCESSFUL`;
   }
-
-  console.log(success);
 
 
 }
@@ -81,7 +79,7 @@ async function get_weather_data(name){
 
   }
   else {
-    console.log(data);
+    
     document.getElementById("temprature").innerText = `${data["main"].temp}\xB0C `
     document.getElementById("weather_condition").innerText = data["weather"][0]["main"]
     document.getElementById("humidity").innerText = data["main"].humidity;
@@ -93,7 +91,7 @@ async function get_weather_data(name){
     if(weather_icon_id !=800 && weather_icon_result==8){
       weather_icon_result="8x"
     }
-    console.log(weather_icon_result);
+    
     document.getElementById("weather_icon").src = `${weather_icon_result}.png`
   }
 
