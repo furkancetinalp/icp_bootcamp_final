@@ -34,3 +34,12 @@ If the current weather condition value of the entered city is not equal to the e
 
 <h2>INSTRUCTION</h2>
 
+Start Dfx
+```dfx start --clean```
+
+Deploy dfx with initialization parameters
+```dfx deploy --argument 'record{name="DFX Blobs";symbol="DFXB";custodians=null;logo=null}' icp_final_backend```
+
+Build both frontend and backend
+```dfx deploy```
+
