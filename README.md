@@ -1,4 +1,5 @@
-NFT Minting Depending on the City and Weather Conditions
+<h1><code style="color : cyan">NFT Minting Depending on the City and Weather Conditions</code></h1>
+
 
 This project aimed to approach NFT-related transactions from a different perspective. 
 <br/>
