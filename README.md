@@ -44,3 +44,24 @@ Deploy dfx with initialization parameters
 Build both frontend and backend
 ```dfx deploy```
 
+<h2>APPLICATION (BEFORE MINTING NFT)</h2>
+
+Front-end page
+![1](https://github.com/furkancetinalp/icp_bootcamp_final/assets/99509540/cee8b3b1-4fa0-416d-a476-a6a0a5d864fd)
+
+On the right side, certain cities can be searched to see weather data
+
+![2](https://github.com/furkancetinalp/icp_bootcamp_final/assets/99509540/4c646e4f-f3ae-48b9-b63a-7f3f31354ab0)
+
+In the input section, any city can be searched
+
+![4](https://github.com/furkancetinalp/icp_bootcamp_final/assets/99509540/bb050fd6-bb1b-4c09-91b2-877878822a3c)
+
+If a city that doesn't exist is entered
+
+![5](https://github.com/furkancetinalp/icp_bootcamp_final/assets/99509540/bda2c84a-1a3e-4ed1-90e5-f538c004905f)
+
+
+<h2>APPLICATION (MINTING NFT)</h2>
+
+In order to mint, we need to provide a principal, city name and the city's weather condition correctly.
