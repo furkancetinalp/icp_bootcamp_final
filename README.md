@@ -76,13 +76,14 @@ If given principal, city and its current weather condition is correctly typed, m
 
 ![mint1](https://github.com/furkancetinalp/icp_bootcamp_final/assets/99509540/ca1c58a5-dc02-43f4-92d8-8ab75efbf043)
 
+If related city's weather condition is typed wrong, it will return WeatherConditionNotMatched error
+
+![mint3](https://github.com/furkancetinalp/icp_bootcamp_final/assets/99509540/989a68fc-8d21-49c7-90fe-9214d3a922ec)
+
 If a city that doesn't exist is minted, it will return CityNotFound error
 
 ![mint2](https://github.com/furkancetinalp/icp_bootcamp_final/assets/99509540/192087c0-bd71-4ddd-937b-077f006aceb1)
 
-If related city's weather condition is typed wrong, it will return WeatherConditionNotMatched error
-
-![mint3](https://github.com/furkancetinalp/icp_bootcamp_final/assets/99509540/989a68fc-8d21-49c7-90fe-9214d3a922ec)
 
 If non-exist weather condition is typed, it will return NoSuchWeatherCondition error
 
