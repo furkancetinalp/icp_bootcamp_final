@@ -71,3 +71,21 @@ If a city that doesn't exist is entered
 <h2>APPLICATION (MINTING NFT)</h2>
 
 In order to mint, we need to provide a principal, city name and the city's weather condition correctly.
+
+If given principal, city and its current weather condition is correctly typed, mint is successful
+
+![mint1](https://github.com/furkancetinalp/icp_bootcamp_final/assets/99509540/ca1c58a5-dc02-43f4-92d8-8ab75efbf043)
+
+If a city that doesn't exist is minted, it will return CityNotFound error
+
+![mint2](https://github.com/furkancetinalp/icp_bootcamp_final/assets/99509540/192087c0-bd71-4ddd-937b-077f006aceb1)
+
+If related city's weather condition is typed wrong, it will return WeatherConditionNotMatched error
+
+![mint3](https://github.com/furkancetinalp/icp_bootcamp_final/assets/99509540/989a68fc-8d21-49c7-90fe-9214d3a922ec)
+
+If non-exist weather condition is typed, it will return NoSuchWeatherCondition error
+
+![mint4](https://github.com/furkancetinalp/icp_bootcamp_final/assets/99509540/5da27154-74b3-43f8-a6b3-54da91f0d904)
+
+
