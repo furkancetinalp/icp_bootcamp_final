@@ -47,19 +47,23 @@ Build both frontend and backend
 <h2>APPLICATION (BEFORE MINTING NFT)</h2>
 
 Front-end page
-![1](https://github.com/furkancetinalp/icp_bootcamp_final/assets/99509540/cee8b3b1-4fa0-416d-a476-a6a0a5d864fd)
+
+![1](https://github.com/furkancetinalp/icp_bootcamp_final/assets/99509540/1c276c0b-12f8-46ea-ae1e-cda33eebcc74)
 
 On the right side, certain cities can be searched to see weather data
 
-![2](https://github.com/furkancetinalp/icp_bootcamp_final/assets/99509540/4c646e4f-f3ae-48b9-b63a-7f3f31354ab0)
+![2](https://github.com/furkancetinalp/icp_bootcamp_final/assets/99509540/88dcff4a-2f98-4642-9ca3-d23cedaa163a)
+
 
 In the input section, any city can be searched
 
-![4](https://github.com/furkancetinalp/icp_bootcamp_final/assets/99509540/bb050fd6-bb1b-4c09-91b2-877878822a3c)
+![4](https://github.com/furkancetinalp/icp_bootcamp_final/assets/99509540/7c94eed5-0995-4d5b-ba18-1f00c773f4c6)
+
 
 If a city that doesn't exist is entered
 
-![5](https://github.com/furkancetinalp/icp_bootcamp_final/assets/99509540/bda2c84a-1a3e-4ed1-90e5-f538c004905f)
+![5](https://github.com/furkancetinalp/icp_bootcamp_final/assets/99509540/3aeabca1-ed00-4e41-a109-390b85efd0b4)
+
 
 
 <h2>APPLICATION (MINTING NFT)</h2>
