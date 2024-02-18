@@ -1,5 +1,6 @@
 <h1><code style="color : cyan">NFT Minting Depending on the City and Weather Conditions</code></h1>
 
+<h2>AIM</h2>
 
 <h3 tyle="color : cyan">This project aimed to approach NFT-related transactions from a different perspective. 
 <br/>
