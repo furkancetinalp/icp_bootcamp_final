@@ -32,7 +32,5 @@ If the entered weather condition is not one of the 7 components mentioned above,
 
 If the current weather condition value of the entered city is not equal to the entered weather condition value,  WeatherConditionNotMatched error is returned.
 
-<br/>
-<br/>
 <h2>INSTRUCTION</h2>
 
